@@ -1,0 +1,93 @@
+ContextMenu_TH = {
+/************ Tuning 2.0 ************/
+    ContextMenu_OpenTuningMenu = "การดัดแปลง",
+
+
+    ContextMenu_LaunchVehicle = "ถอดรถพ่วง",
+    ContextMenu_CantLaunchVehicle = "ไม่สามารถถอดได้<br>มีอะไรบางอย่างขวางทางอยู่",
+    ContextMenu_LoadVehicleOntoTrailer = "ใส่รถพ่วง",
+    ContextMenu_CantLoadVehicleOntoTrailer = "ไม่มียานพาหนะ<br>ด้านหลังหรือรถคันนี้<br>ไม่เหมาะสมสำหรับรถพ่วงนี้",
+
+    ContextMenu_TCConvertAppliance = "ทำ %1",
+
+    ContextMenu_AirCondOn = "การควบคุมฮีตเตอร์",
+    ContextMenu_AirCondOff = "การควบคุมฮีตเตอร์",
+    ContextMenu_Sleep_Mattress = "นอนบนฟูก",
+    ContextMenu_PainNoSleep_Mattress = "เผชิญความเจ็บปวดมากเกินกว่าจนนอนบนฟูก",
+    ContextMenu_PanicNoSleep_Mattress = "ตื่นตระหนกเกินกว่าจะนอนบนฟูก",
+    ContextMenu_NoSleepTooEarly_Mattress = "ไม่สามารถกลับไปนอนบนฟูกได้<br>ลองอีกครั้งในภายหลัง",
+    ContextMenu_Add_Gasoline_To_Gasoline_Storage_Tank = "เทน้ำมันลงในถัง",
+    ContextMenu_Remove_Gasoline_From_Gasoline_Storage_Tank = "สูบน้ำมันออกจากถัง",
+    ContextMenu_Fill_Gasoline_Storage_Tank_From_Pump = "เติมถังน้ำมันจากปั๊ม",
+    ContextMenu_Fill_Gasoline_Storage_Tank_From_Fuel_Truck = "เติมถังน้ำมันจากรถบรรทุกน้ำมันเชื้อเพลิง",
+    ContextMenu_Remove_Gasoline_From_Fuel_Truck = "เติมเชื้อเพลิงจากถัง",
+    ContextMenu_For_get_Gasoline_Need_Gas_Can = "ต้องการถังน้ำมัน",
+    
+    ContextMenu_CloseTent = "ปิดเต็นท์",
+    ContextMenu_OpenTent = "เปิดเต็นท์",
+    
+    ContextMenu_Vehicle_For_Smashwindow_Uninstall_Protection = "เพื่อทำลายหน้าต่าง,<br>กำจัดการป้องกัน",
+    
+/************ Aquatsar Yacht Club ************/
+    ContextMenu_BoatAddGas = "เติมน้ำมัน",
+    ContextMenu_BoatCabinelightsOff = "ปิดไฟ",
+    ContextMenu_BoatCabinelightsOn = "เปิดไฟ",
+    
+    ContextMenu_BoatHeadlightsOff = "ปิดไฟสปอตไลท์",
+    ContextMenu_BoatHeadlightsOn = "เปิดไฟสปอตไลท์",
+    ContextMenu_BoatHotwireSkill = "คุณต้องมีกุญแจหรือ<br>ไฟฟ้า เลเวล 1 and<br>ช่างเครื่อง เลเวล 2<br>เพื่อ hotwire",
+    
+    ContextMenu_RemoveSail = "ถอดใบเรือ", 
+    ContextMenu_SetLeftSail = "ตั้งให้แล่นเรือต่อ<br>ไปทางด้านซ้าย",
+    ContextMenu_SetRightSail = "ตั้งให้แล่นเรือต่อ<br>ไปทางด้านขวา",
+    ContextMenu_SwimToLand = "ว่ายกลับไปที่ฝั่ง",
+    
+    ContextMenu_LaunchBoat = "ปล่อยเรือ",
+    ContextMenu_CantLaunchBoat = "จำเป็นต้องขับ<br>รถพ่วงลงน้ำ",
+    ContextMenu_LoadBoatOntoTrailer = "ใส่เรือไปยังรถพ่วง",
+    ContextMenu_CantLoadBoatOntoTrailer = "เรือและรถพ่วง<br>ต้องปิด",
+    ContextMenu_CantLoadBoatOntoTrailerMan = "ไม่ควรมีคน<br>อยู่บนเรือ",
+    
+    ContextMenu_VehicleStartEngineManual = "สตาร์ทเครื่องยนต์ด้วยตนเอง",
+    ContextMenu_VehicleManualStarterDamage = "ไม่ได้ติดตั้งรีคอยล์สตาร์ทเตอร์<br>หรือเสียหาย",
+    ContextMenu_set_anchor_on = "ปล่อยสมอ",
+    ContextMenu_set_anchor_off = "ยกสมอขึ้น",
+    ContextMenu_bind_boat = "ผูกเรือ",
+    ContextMenu_unbind_boat = "ปลดเรือ",
+    
+    ContextMenu_Wooden_Pantone = "โป๊ะไม้",
+    
+    ContextMenu_Open_Cabin = "ปลดล็อคห้องโดยสาร",
+    ContextMenu_Open_Cabin_Force = "ปลดล็อคห้องโดยสาร<br>(ด้วย %1)",
+    ContextMenu_Open_Cabin_Force_Need_Crowbar = "ปลดล็อคห้องโดยสาร<br>(ต้องการเครื่องมือหรือกุญแจ)"
+    ContextMenu_Close_Cabin = "ปิดห้องโดยสาร",
+    ContextMenu_cabinForceUnlock_tooTired = "ฉันเหนื่อยเกินไป<br>ที่จะเปิดห้องโดยสาร",
+    ContextMenu_cabinForceUnlock_tooBored = "ฉันไม่ต้องการ<br>ทำสิ่งนี้ตอนนี้",
+    ContextMenu_cabinForceUnlock_tooUnhappy = "ฉันไม่มีอารมณ์<br>ที่จะทำสิ่งนี้",
+
+/************ Autotsar Tuning Atelier - Bus ************/
+    ContextMenu_Vehicle_EGNH = "เขียน «EGNH»",
+    ContextMenu_Vehicle_STRAYS = "เขียน «STRAYS»",
+    
+/************ Autotsar Trailers ************/
+    ContextMenu_Close_trunk = "ปิดท้ายรถ",
+    ContextMenu_Open_trunk = "เปิดท้ายรถ",
+    ContextMenu_TrailerSpotlightOn = "เปิดไฟสปอตไลท์",
+    ContextMenu_TrailerSpotlightOff = "ปิดไฟสปอตไลท์",
+    ContextMenu_Turn_On_Generator = "สตาร์ทเครื่องกำเนิดไฟฟ้า",
+    
+/************ True Actions ************/
+    ContextMenu_Sit = "นั่ง",
+    ContextMenu_Lie = "นอน",
+    ContextMenu_OnSleep = "เอนหลัง",
+    
+/************ True Music ************/
+    ContextMenu_Stop_music = "หยุดเพลง",
+    ContextMenu_Play_music = "เล่นเพลง",
+    ContextMenu_Sound_carrier_not_install = "ไม่ได้ติดตั้งหูฟัง",
+    ContextMenu_Song = "เพลง",
+    
+/************ ZuperCart ************/
+    ContextMenu_GrabTrolley = "หยิบรถเข็น",
+}
+
