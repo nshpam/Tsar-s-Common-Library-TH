@@ -1,54 +1,54 @@
 Tooltip_TH = {
-    Tooltip_Compact_Appliance = "Can be installed in some vehicles and trailers",
-    Tooltip_item_tuning = "Part for tuning",
-    Tooltip_item_ATATuningMagUniversal = "After reading this issue, you will get basic tuning knowledge. You will learn<br>to create universal protection for windows, study the drawings of different types of trunks<br>and understand how to make the car bumper more lethal.",
+    Tooltip_Compact_Appliance = "สามารถติดตั้งได้ในบางพาหนะและรถพ่วง",
+    Tooltip_item_tuning = "ชิ้นส่วนสำหรับการปรับแต่ง",
+    Tooltip_item_ATATuningMagUniversal = "หลังจากอ่านนิตยสารฉบับนี้ คุณจะเข้าความรู้เบื้องต้นเกี่ยวกับการปรับแต่ง คุณจะได้เรียนรู้<br>การสร้างสิ่งป้องกันสำหรับหน้าต่างแบบครอบจักรวาล, เรียนรู้ภาพสเก็ตแบบต่างๆของท้ายรถ<br>และเข้าใจวิธีการทำกันชนรถมากยิ่งขึ้น",
 
 
 /************ Aquatsar Yacht Club ************/
-    Tooltip_item_BoatMechanic = "Boat type",
-    Tooltip_BoatDashboard_SpeedValueButton = "Change units of measurement",
-    Tooltip_Boat_LowBattery = "Low battery level",
-    Tooltip_item_BoatMag = "Instructive manual containing diagrams and common maintenance<br>tasks for popular boat models.", 
-    Tooltip_item_SwimMag = "Мagazine about the most effective swimming methods. Interview with the best swimmers in the country.<br>Reviews of swimming trunks, caps and goggles.", 
+    Tooltip_item_BoatMechanic = "ประเภทเรือ",
+    Tooltip_BoatDashboard_SpeedValueButton = "เปลี่ยนหน่วยการวัด",
+    Tooltip_Boat_LowBattery = "ระดับแบตเตอรี่ต่ำ",
+    Tooltip_item_BoatMag = "คู่มือแนะนำที่มีแปลนและงานบำรุงรักษาทั่วไป<br>สำหรับเรือรุ่นยอดนิยม", 
+    Tooltip_item_SwimMag = "นิตยสารเกี่ยวกับวิธีการว่ายน้ำที่มีประสิทธิภาพสูงสุด สัมภาษณ์กับนักว่ายน้ำที่เก่งที่สุดในประเทศ<br>รีวิวของกางเกงว่ายน้ำ หมวกว่ายน้ำ และแว่นตาว่ายน้ำ", 
 
 
 /************ Autotsar Tuning Atelier - Bus ************/
-    Tooltip_item_AtTuningMagBus = "In this issue you will learn how to prepare your bus for the zombie apocalypse,<br>learn how to create protection for windows and wheels, understand how to make<br>an effective grill and how to make a roomy roof rack.",
-    Tooltip_item_kengur    = "You have come up with a new type of bullwhip.<br>All that's left to do is to study your drawings more closely.",
+    Tooltip_item_AtTuningMagBus = "ในนิตยสารฉบับนี้ คุณจะได้เรียนรู้วิธีเตรียมรถบัสของคุณให้พร้อมรับมือกับซอมบี้,<br>เรียนรู้การสร้างสิ่งป้องกันสำหรับหน้าต่างและล้อ, เข้าใจวิธี<br>การย่างอย่างมีประสิทธิภาพและวิธีการทำแร็คติดหลังคาขนาดใหญ่",
+    Tooltip_item_kengur    = "คุณได้คิดหาวิธีการทำแส้ม้ารูปแบบใหม่<br>สิ่งที่ต้องทำที่เหลือก็แค่ศึกษาแปลนของคุณอย่างละเอียด",
 
 
 /************ Autotsar Tuning Atelier - Jeep ************/
-    Tooltip_item_AtTuningMagJeep = "After reading this issue you will get basic tuning knowledge and learn how to create protection, bumpers, roof rails and additional trunks for Jaap Wrungel",
+    Tooltip_item_AtTuningMagJeep = "หลังจากอ่านนิตยสารฉบับนี้ คุณจะเข้าความรู้เบื้องต้นเกี่ยวกับการปรับแต่งและเรียนรู้การสร้างสิ่งป้องกัน, กันชน, รางติดหลังคาและท้ายรถสำหรับ Jaap Wrungel เพิ่มเติม",
 
 
 /************ Autotsar Tuning Atelier - Mustang ************/
 /************ Autotsar Tuning Atelier - Samara ************/
-    Tooltip_item_ATATuningFordMustang = "After reading this issue, you will get basic tuning knowledge and learn how to<br>create protection, a bullbar and a roof rack for Fjord Mustard",
-    Tooltip_item_ATATuningChevalierSamara = "After reading this issue, you will get basic tuning knowledge and learn how to<br>create protection, a bullbar and a roof rack for Chevalier Samara",
+    Tooltip_item_ATATuningFordMustang = "หลังจากอ่านนิตยสารฉบับนี้  คุณจะเข้าความรู้เบื้องต้นเกี่ยวกับการปรับแต่งและเรียนรู้วิธี<br>การสร้างสิ่งป้องกัน, บูลบาร์และแร็คติดหลังคาสำหรับ Fjord Mustard",
+    Tooltip_item_ATATuningChevalierSamara = "หลังจากอ่านนิตยสารฉบับนี้ คุณจะเข้าความรู้เบื้องต้นเกี่ยวกับการปรับแต่งและเรียนรู้วิธี<br>การสร้างสิ่งป้องกัน, บูลบาร์และแร็คติดหลังคาสำหรับ Chevalier Samara",
 
 
 /************ Autotsar Tuning Atelier - Dadge Steals RT ************/
-    Tooltip_item_ATADodgeTuningMag = "After reading this issue, you will get basic tuning knowledge and learn how to<br>create protection, bullbars and racks for Dadge Steals RT",
+    Tooltip_item_ATADodgeTuningMag = "หลังจากอ่านนิตยสารฉบับนี้ คุณจะเข้าความรู้เบื้องต้นเกี่ยวกับการปรับแต่งและเรียนรู้วิธี<br>การสร้างสิ่งป้องกัน, บูลบาร์และแร็คติดหลังคาสำหรับ Dadge Steals RT",
 
 
 /************ Autotsar Tuning Atelier - Petyarbuilt ************/
-    Tooltip_item_ATAPetyarbuiltTuningMag = "After reading this issue, you will get basic tuning knowledge and learn how to<br>create protection for Petyarbuilt 379",
+    Tooltip_item_ATAPetyarbuiltTuningMag = "หลังจากอ่านนิตยสารฉบับนี้ คุณจะเข้าความรู้เบื้องต้นเกี่ยวกับการปรับแต่งและเรียนรู้วิธี<br>การสร้างสิ่งป้องกันสำหรับ Petyarbuilt 379",
 
 
 /************ Autotsar Tuning Atelier - MolksAgen Luton Van ************/
-    Tooltip_item_ATATuningMagLuton = "After reading this issue, you will get basic tuning knowledge and learn how to<br>create protection for MolksAgen Luton Van",
+    Tooltip_item_ATATuningMagLuton = "หลังจากอ่านนิตยสารฉบับนี้ คุณจะเข้าความรู้เบื้องต้นเกี่ยวกับการปรับแต่งและเรียนรู้วิธี<br>การสร้างสิ่งป้องกันสำหรับรถตู้ MolksAgen Luton",
 
 
 /************ Autotsar Tuning Atelier - MolksAgen DeRumba Van ************/
-    Tooltip_item_ATATuningMagDeRumba = "After reading this issue, you will get basic tuning knowledge and learn how to<br>create protection for DeRumba Van",
+    Tooltip_item_ATATuningMagDeRumba = "หลังจากอ่านนิตยสารฉบับนี้ คุณจะเข้าความรู้เบื้องต้นเกี่ยวกับการปรับแต่งและเรียนรู้วิธี<br>การสร้างสิ่งป้องกันสำหรับรถตู้ DeRumba",
 
 
 /************ True Music ************/
-    Tooltip_item_Boombox = "Foreign boombox. Doesn't get local radio,<br>but can play cassettes. Powered by batteries.",
-    Tooltip_item_Vinyl = "It needs electricity and connected speakers to function.",
-    Tooltip_item_Walkman = "The famous player from Sany.",
+    Tooltip_item_Boombox = "บูมบอกซ์ต่างประเทศ ไม่สามารถรับวิทยุท้องถิ่นได้<br>แต่สามารถเล่นเทปคาสเซ็ทได้ ใช้พลังงานจากแบตเตอรี่",
+    Tooltip_item_Vinyl = "ต้องใช้ไฟฟ้าและลำโพงเชื่อมต่อจึงจะทำงานได้",
+    Tooltip_item_Walkman = "นักดนตรีชื่อดังจาก Sany",
 
 
 /************ Autotsar Tuning Atelier - Bumer 36E ************/
-    Tooltip_item_ATABMWe36TuningMag = "After reading this issue, you will get basic tuning knowledge and learn how to<br>create protection, bullbars and racks for Bumer 36E",
+    Tooltip_item_ATABMWe36TuningMag = "หลังจากอ่านนิตยสารฉบับนี้ คุณจะเข้าความรู้เบื้องต้นเกี่ยวกับการปรับแต่งและเรียนรู้วิธี<br>การสร้างสิ่งป้องกัน, บูลบาร์และแร็คติดหลังคาสำหรับ Bumer 36E",
 }
