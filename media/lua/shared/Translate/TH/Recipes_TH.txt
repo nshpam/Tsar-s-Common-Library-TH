@@ -1,69 +1,69 @@
 Recipe_TH = {
-    Recipe_ATADodgeRecipes = "Dadge Tuning",
-    Recipe_ATABusRecipes = "Bus Tuning",
-    Recipe_ATAJeepRecipes = "Jaap Tuning",
-    Recipe_ATABMWe36Recipes = "BMW 36E Tuning",
-    Recipe_ATAVanDeRumbaRecipes = "DeRumba Van Tuning",
-    Recipe_ATAMustangRecipes = "Fjord Mustard Tuning",
-    Recipe_ATASamaraRecipes = "Chevalier Samara Tuning",
-    Recipe_ATALutonRecipes = "MolksAgen Luton Van Tuning",
-    Recipe_ATAPetyarbuiltRecipes = "Petyarbuilt 379 Tuning",
-    Recipe_ATADeLorianRecipes = "DMG DoLorean Tuning",
-    Recipe_ATADeLorianBTTFRecipes = "Recipe for a time machine",
-    Recipe_ATADatsun240zRecipes = "Dadsun 240z Tuning",
+    Recipe_ATADodgeRecipes = "การปรับแต่งรถ Dadge",
+    Recipe_ATABusRecipes = "การปรับแต่งรถบัส",
+    Recipe_ATAJeepRecipes = "การปรับแต่งรถ Jaap",
+    Recipe_ATABMWe36Recipes = "การปรับแต่งรถ BMW 36E",
+    Recipe_ATAVanDeRumbaRecipes = "การปรับแต่งรถตู้ DeRumba",
+    Recipe_ATAMustangRecipes = "การปรับแต่งรถ Fjord Mustard",
+    Recipe_ATASamaraRecipes = "การปรับแต่งรถ Chevalier Samara",
+    Recipe_ATALutonRecipes = "การปรับแต่งรถตู้ MolksAgen Luton",
+    Recipe_ATAPetyarbuiltRecipes = "การปรับแต่งรถ Petyarbuilt 379",
+    Recipe_ATADeLorianRecipes = "การปรับแต่งรถ DMG DoLorean",
+    Recipe_ATADeLorianBTTFRecipes = "สูตรคราฟสำหรับไทม์แมชชีน",
+    Recipe_ATADatsun240zRecipes = "การปรับแต่งรถ Dadsun 240z",
 
-    Recipe_Cut_ATABullbar1Item = "Cut Bullbar",
-    Recipe_Cut_ATABullbar2Item = "Cut Bullbar",
-    Recipe_Cut_ATAFendersWideItem = "Cut Fenders",
-    Recipe_Cut_ATASkirtsSideItem = "Cut Skirts",
-    Recipe_Cut_ATASpoilerFrontItem = "Cut Front Spoiler",
-    Recipe_Cut_ATASpoilerRear1Item = "Cut Rear Spoiler",
-    Recipe_Cut_ATASpoilerRear2Item = "Cut Rear Spoiler",
+    Recipe_Cut_ATABullbar1Item = "ตัดบูลบาร์",
+    Recipe_Cut_ATABullbar2Item = "ตัดบูลบาร์",
+    Recipe_Cut_ATAFendersWideItem = "ตัดแผ่นบังโคลนรถ",
+    Recipe_Cut_ATASkirtsSideItem = "ตัดกระโปรงรถ",
+    Recipe_Cut_ATASpoilerFrontItem = "ตัดสปอยเลอร์หน้า",
+    Recipe_Cut_ATASpoilerRear1Item = "ตัดสปอยเลอร์หลัง",
+    Recipe_Cut_ATASpoilerRear2Item = "ตัดสปอยเลอร์หลัง",
 
 
 /* transport_item.txt */
-    Recipe_Make_TransportCounter = "Build Portable shelf",
-    Recipe_Make_TransportCupboard = "Build Portable cupboard",
-    Recipe_Make_TransportShelve = "Build Portable shelve",
-    Recipe_Make_a_compact_fridge = "Make a compact fridge",
-    Recipe_Make_a_compact_stove = "Make a compact stove",
-    Recipe_Make_a_compact_microwave = "Make a compact microwave",
+    Recipe_Make_TransportCounter = "สร้างชั้นวางแบบพกพา",
+    Recipe_Make_TransportCupboard = "สร้างตู้แบบพกพา",
+    Recipe_Make_TransportShelve = "สร้างชั้นวางของแบบพกพา",
+    Recipe_Make_a_compact_fridge = "ทำตู้เย็นขนาดกะทัดรัด",
+    Recipe_Make_a_compact_stove = "ทำเตาขนาดกระทัดรัด",
+    Recipe_Make_a_compact_microwave = "ทำไมโครเวฟขนาดกะทัดรัด",
 
 
 /* ATA */
-    Recipe_Make_ATAProtectionWheelsItem = "Make Wheel protection",
-    Recipe_Cut_ATAProtectionWheelsItem = "Cut Wheel protection",
-    Recipe_Basic_Tuning = "Basic Tuning",
+    Recipe_Make_ATAProtectionWheelsItem = "ทำสิ่งป้องกันล้อ",
+    Recipe_Cut_ATAProtectionWheelsItem = "ตัดสิ่งป้องกันล้อ",
+    Recipe_Basic_Tuning = "การปรับแต่งพื้นฐาน",
 
 
 /************ Autotsar Motorclub ************/
-    Recipe_Make_ATAMotoBMWCustomMuffler = "BWM R80/7 - make a custom muffler",
+    Recipe_Make_ATAMotoBMWCustomMuffler = "BWM R80/7 - ทำท่อไอเสียแบบกำหนดเอง",
 
 
 /************ Aquatsar Yacht Club ************/
-    Recipe_Extract_Tire_Tube = "Extract Tire Tube",
-    Recipe_Flatten_Tire_Tube = "Flatten Tire Tube",
-    Recipe_Inflate_Tire_Tube = "Inflate Tire Tube",
-    Recipe_Powerboats_Mechanics = "Powerboats Mechanics",
-    Recipe_Sailboats_Mechanics = "Sailboats Mechanics",
-    Recipe_Performance_Boat_Mechanics = "Performance Boat Mechanics",
-    Recipe_Swimming = "Best Swimming Technique",
+    Recipe_Extract_Tire_Tube = "ถอดท่อยาง",
+    Recipe_Flatten_Tire_Tube = "ปล่อยลมท่อยาง",
+    Recipe_Inflate_Tire_Tube = "เติมลมท่อยาง",
+    Recipe_Powerboats_Mechanics = "กลศาสตร์เรือยนต์",
+    Recipe_Sailboats_Mechanics = "กลศาสตร์เรือใบ",
+    Recipe_Performance_Boat_Mechanics = "กลศาสตร์เรือสมรรถนะสูง",
+    Recipe_Swimming = "เทคนิคการว่ายน้ำที่ดีที่สุด",
 
 
 /************ Autotsar Tuning Atelier - Jaap Wrungel ************/
-    Recipe_Cut_ATAJeepBumper1Item = "Jaap Wrungel - Cut Bumper",
-    Recipe_Cut_ATAJeepBumper2Item = "Jaap Wrungel - Cut Bumper",
-    Recipe_Cut_ATAJeepBumper3Item = "Jaap Wrungel - Cut Bumper",
+    Recipe_Cut_ATAJeepBumper1Item = "Jaap Wrungel - ตัดกันชน",
+    Recipe_Cut_ATAJeepBumper2Item = "Jaap Wrungel - ตัดกันชน",
+    Recipe_Cut_ATAJeepBumper3Item = "Jaap Wrungel - ตัดกันชน",
 
 
 /************ Autotsar Tuning Atelier - Fjord Mustard ************/
 /************ Autotsar Tuning Atelier - Chevalier Samara ************/
-    Recipe_Cut_ATAMustangHoodItem = "Mustard - Cut Hood",
-    Recipe_Cut_ATASamaraHoodItem = "Samara - Cut Hood",
+    Recipe_Cut_ATAMustangHoodItem = "Mustard - ตัดกระโปรงหน้ารถ",
+    Recipe_Cut_ATASamaraHoodItem = "Samara - ตัดกระโปรงหน้ารถ",
 
 
 /************ True Music ************/
-    Recipe_Dismantle_TCWalkman = "Dismantle Music Player",
-    Recipe_Dismantle_TruePlayers = "Dismantle Music Player",
+    Recipe_Dismantle_TCWalkman = "รื้อเครื่องเล่นเพลง",
+    Recipe_Dismantle_TruePlayers = "รื้อเครื่องเล่นเพลง",
 
 }
