@@ -22,9 +22,9 @@ Recipe_TH = {
 
 
 /* transport_item.txt */
-    Recipe_Make_TransportCounter = "สร้างชั้นวางแบบพกพา",
-    Recipe_Make_TransportCupboard = "สร้างตู้แบบพกพา",
-    Recipe_Make_TransportShelve = "สร้างชั้นวางของแบบพกพา",
+    Recipe_Make_TransportCounter = "สร้างชั้นวางพกพา",
+    Recipe_Make_TransportCupboard = "สร้างตู้พกพา",
+    Recipe_Make_TransportShelve = "สร้างชั้นวางของพกพา",
     Recipe_Make_a_compact_fridge = "ทำตู้เย็นขนาดกะทัดรัด",
     Recipe_Make_a_compact_stove = "ทำเตาขนาดกระทัดรัด",
     Recipe_Make_a_compact_microwave = "ทำไมโครเวฟขนาดกะทัดรัด",
@@ -37,7 +37,7 @@ Recipe_TH = {
 
 
 /************ Autotsar Motorclub ************/
-    Recipe_Make_ATAMotoBMWCustomMuffler = "BWM R80/7 - ทำท่อไอเสียแบบกำหนดเอง",
+    Recipe_Make_ATAMotoBMWCustomMuffler = "BWM R80/7 - ทำท่อไอเสียแต่ง",
 
 
 /************ Aquatsar Yacht Club ************/

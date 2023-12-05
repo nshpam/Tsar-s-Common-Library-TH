@@ -1,160 +1,160 @@
 ItemName_TH = {
 
-    ItemName_ATA2.ATABullbarPoliceItem1 = "Police Bullbar",
-    ItemName_ATA2.ATABullbar1Item = "Standart Bullbar",
-    ItemName_ATA2.ATABullbar2Item = "Police Bullbar",
-    ItemName_ATA2.ATABullbar3Item = "Bullbar with lights",
-    ItemName_ATA2.ATAFendersWideItem = "Wide Fenders",
-    ItemName_ATA2.ATASkirtsSideItem = "Side Skirts",
-    ItemName_ATA2.ATASpoilerFrontItem = "Spoiler Lip",
-    ItemName_ATA2.ATASpoilerRear1Item = "Standart Spoiler",
-    ItemName_ATA2.ATASpoilerRear2Item = "High Spoiler",
-    ItemName_ATA2.ATAFrontRoofLightItem = "Roof Lights",
+    ItemName_ATA2.ATABullbarPoliceItem1 = "บูลบาร์ตำรวจ",
+    ItemName_ATA2.ATABullbar1Item = "บูลบาร์มาตรฐาน",
+    ItemName_ATA2.ATABullbar2Item = "บูลบาร์ตำรวจ",
+    ItemName_ATA2.ATABullbar3Item = "บูลบาร์ติดไฟ",
+    ItemName_ATA2.ATAFendersWideItem = "บังโคลนกว้าง",
+    ItemName_ATA2.ATASkirtsSideItem = "กระโปรงรถด้านข้าง",
+    ItemName_ATA2.ATASpoilerFrontItem = "สปอยเลอร์ริม",
+    ItemName_ATA2.ATASpoilerRear1Item = "สปอยเลอร์มาตรฐาน",
+    ItemName_ATA2.ATASpoilerRear2Item = "สปอยเลอร์สูง",
+    ItemName_ATA2.ATAFrontRoofLightItem = "ไฟหลังคารถ",
 
 /* transport_item.txt */
-    ItemName_Base.TransportCounter = "Portable shelf",
-    ItemName_Base.TransportCupboard = "Portable cupboard",
-    ItemName_Base.TransportDrawer = "Portable drawer",
-    ItemName_Base.TransportFreezer = "Portable freezer",
-    ItemName_Base.TransportFridge = "Portable fridge",
-    ItemName_Base.TransportMedicine = "Portable medicine",
-    ItemName_Base.TransportMicrowave = "Portable microwave",
-    ItemName_Base.TransportOven = "Portable oven",
-    ItemName_Base.TransportShelve = "Portable shelve",
-    ItemName_Base.TransportSeatBoxWooden = "Wooden seat",
+    ItemName_Base.TransportCounter = "ชั้นวางพกพา",
+    ItemName_Base.TransportCupboard = "ตู้พกพา",
+    ItemName_Base.TransportDrawer = "ลิ้นชักพกพา",
+    ItemName_Base.TransportFreezer = "ตู้แช่แข็งพกพา",
+    ItemName_Base.TransportFridge = "ตู้เย็นพกพา",
+    ItemName_Base.TransportMedicine = "ยาพกพา",
+    ItemName_Base.TransportMicrowave = "ไมโครเวฟพกพา",
+    ItemName_Base.TransportOven = "เตาอบพกพา",
+    ItemName_Base.TransportShelve = "ชั้นวางพกพา",
+    ItemName_Base.TransportSeatBoxWooden = "เก้าอี้ไม้",
 
 
 /* template_TruckTank.txt */
-    ItemName_Base.500Tank1 = "Tank 500",
-    ItemName_Base.500Tank2 = "Tank 500",
-    ItemName_Base.500Tank3 = "Tank 500",
-    ItemName_Base.1000Tank1 = "Tank 1000",
-    ItemName_Base.1000Tank2 = "Tank 1000",
-    ItemName_Base.1000Tank3 = "Tank 1000",
+    ItemName_Base.500Tank1 = "ถัง 500",
+    ItemName_Base.500Tank2 = "ถัง 500",
+    ItemName_Base.500Tank3 = "ถัง 500",
+    ItemName_Base.1000Tank1 = "ถัง 1000",
+    ItemName_Base.1000Tank2 = "ถัง 1000",
+    ItemName_Base.1000Tank3 = "ถัง 1000",
 
 
 /* template_ata_roof_lights.txt */
-    ItemName_Base.ATARoofLightItem = "Roof lights",
+    ItemName_Base.ATARoofLightItem = "ไฟหลังคารถ",
 
 
 /* template_ata_protection.txt */
-    ItemName_Base.ATAProtectionWheelsChain = "Chain",
+    ItemName_Base.ATAProtectionWheelsChain = "โซ่",
 
 
 /************ Autotsar Motorclub ************/
-    ItemName_Autotsar.ATAMotoBagBMW1 = "BWM R80/7 - motobag",
-    ItemName_Autotsar.ATAMotoBagBMW2 = "BWM R80/7 - motobag enhanced",
-    ItemName_Autotsar.ATAMotoBMWCustomMuffler = "BWM R80/7 - custom muffler",
-    ItemName_Autotsar.ATAMotoBMWClassicMuffler = "BWM R80/7 - serial muffler",
-    ItemName_Autotsar.ATAMotoBMWOldTire = "BWM R80/7 - old tire",
-    ItemName_Autotsar.ATAMotoBMWNormalTire = "BWM R80/7 - normal tire",
-    ItemName_Autotsar.ATAMotoBMWModernTire = "BWM R80/7 - modern tire",
-    ItemName_Autotsar.ATAMotoBMWGasTank = "BWM R80/7 - gastank",
-    ItemName_Autotsar.ATAMotoBMWSeat = "BWM R80/7 - serial seat",
-    ItemName_Autotsar.ATAMotoBMWSeatCustom = "BWM R80/7 - custom seat",
+    ItemName_Autotsar.ATAMotoBagBMW1 = "BWM R80/7 - กระเป๋ามอเตอร์ไซค์",
+    ItemName_Autotsar.ATAMotoBagBMW2 = "BWM R80/7 - กระเป๋ามอเตอร์ไซค์",
+    ItemName_Autotsar.ATAMotoBMWCustomMuffler = "BWM R80/7 - ท่อไอเสียแต่ง",
+    ItemName_Autotsar.ATAMotoBMWClassicMuffler = "BWM R80/7 - ท่อไอเสียแบบซีเรียล",
+    ItemName_Autotsar.ATAMotoBMWOldTire = "BWM R80/7 - ยางเก่า",
+    ItemName_Autotsar.ATAMotoBMWNormalTire = "BWM R80/7 - ยางธรรมดา",
+    ItemName_Autotsar.ATAMotoBMWModernTire = "BWM R80/7 - ยางโมเดิร์น",
+    ItemName_Autotsar.ATAMotoBMWGasTank = "BWM R80/7 - ถังน้ำมัน",
+    ItemName_Autotsar.ATAMotoBMWSeat = "BWM R80/7 - ที่นั่งแบบซีเรียล",
+    ItemName_Autotsar.ATAMotoBMWSeatCustom = "BWM R80/7 - ที่นั่งแต่ง",
     
-    ItemName_Autotsar.ATAMotoHarleyBag = "Xarley-Davitsan Sportstep - motobag",
-    ItemName_Autotsar.ATAMotoHarleyMuffler = "Xarley-Davitsan Sportstep - muffler",
-    ItemName_Autotsar.ATAMotoHarleyOldTire = "Xarley-Davitsan Sportstep - old tire",
-    ItemName_Autotsar.ATAMotoHarleyNormalTire = "Xarley-Davitsan Sportstep - normal tire",
-    ItemName_Autotsar.ATAMotoHarleyModernTire = "Xarley-Davitsan Sportstep - modern tire",
-    ItemName_Autotsar.ATAMotoHarleyGasTank = "Xarley-Davitsan Sportstep - gastank",
-    ItemName_Autotsar.ATAMotoHarleyHolster = "Xarley-Davitsan Sportstep - holster",
-    ItemName_Autotsar.ATAMotoHarleySeat = "Xarley-Davitsan Sportstep - seat",
+    ItemName_Autotsar.ATAMotoHarleyBag = "Xarley-Davitsan Sportstep - กระเป๋ามอเตอร์ไซค์",
+    ItemName_Autotsar.ATAMotoHarleyMuffler = "Xarley-Davitsan Sportstep - ท่อไอเสีย",
+    ItemName_Autotsar.ATAMotoHarleyOldTire = "Xarley-Davitsan Sportstep - ยางเก่า",
+    ItemName_Autotsar.ATAMotoHarleyNormalTire = "Xarley-Davitsan Sportstep - ยางธรรมดา",
+    ItemName_Autotsar.ATAMotoHarleyModernTire = "Xarley-Davitsan Sportstep - ยางโมเดิร์น",
+    ItemName_Autotsar.ATAMotoHarleyGasTank = "Xarley-Davitsan Sportstep - ถังน้ำมัน",
+    ItemName_Autotsar.ATAMotoHarleyHolster = "Xarley-Davitsan Sportstep - ซองปืน",
+    ItemName_Autotsar.ATAMotoHarleySeat = "Xarley-Davitsan Sportstep - ที่นั่ง",
     
-    ItemName_Autotsar.ATAMotoQuadSeat = "Suvzuki Quadruiner - seat",
+    ItemName_Autotsar.ATAMotoQuadSeat = "Suvzuki Quadruiner - ที่นั่ง",
 
 
 /************ Aquatsar Yacht Club ************/
-    ItemName_Aquatsar.BoatPropeller = "Boat Propeller",
-    ItemName_Aquatsar.ManualStarter = "Manual Starter",
-    ItemName_Aquatsar.Sails = "Sails",
-    ItemName_Aquatsar.BoatMag = "Repair Your Boats Magazine",
-    ItemName_Aquatsar.SwimMag = "Swimming Times Magazine",
-    ItemName_Aquatsar.Lifebuoy = "Lifebuoy",
-    ItemName_Aquatsar.DivingMask = "Diving Mask",
-    ItemName_Aquatsar.TaintedLiterature = "Tainted literature",
-    ItemName_Aquatsar.Compass = "Compass",
-    ItemName_Aquatsar.DeflatedTireTube = "Deflated Tire Tube",
-    ItemName_Aquatsar.TireTube = "Tire Tube",
-    ItemName_Base.SailingYachtName_Default_Item = "No name",
+    ItemName_Aquatsar.BoatPropeller = "ใบพัดเรือ",
+    ItemName_Aquatsar.ManualStarter = "สตาร์ทเตอร์ด้วยมือ",
+    ItemName_Aquatsar.Sails = "ใบเรือ",
+    ItemName_Aquatsar.BoatMag = "นิตยสารซ่อมเรือของคุณ",
+    ItemName_Aquatsar.SwimMag = "นิตยสารได้เวลาว่ายน้ำ",
+    ItemName_Aquatsar.Lifebuoy = "ชูชีพ",
+    ItemName_Aquatsar.DivingMask = "หน้ากากดำน้ำ",
+    ItemName_Aquatsar.TaintedLiterature = "วรรณกรรมที่แปดเปื้อน",
+    ItemName_Aquatsar.Compass = "เข็มทิศ",
+    ItemName_Aquatsar.DeflatedTireTube = "ปล่อยลมท่อยาง",
+    ItemName_Aquatsar.TireTube = "ท่อยาง",
+    ItemName_Base.SailingYachtName_Default_Item = "ไม่มีชื่อ",
     ItemName_Base.SailingYachtName_La_Brigandine = "La Brigandine",
     ItemName_Base.SailingYachtName_Sakharov_Item = "Akademik Sakharov",
-    ItemName_Base.BoatMotorName_Default_Item = "No name",
+    ItemName_Base.BoatMotorName_Default_Item = "ไม่มีชื่อ",
     ItemName_Base.BoatMotorName_Orianna_Item = "M/Y Orianna",
     ItemName_Base.BoatMotorName_NP_Item = "Nautilus P.",
 
 
 /************ Autotsar Tuning Atelier - Bus ************/
-    ItemName_Autotsar.AtTuningMagBus = "Magazine «Autotsar Tuning Atelier - Bear Bus»",
+    ItemName_Autotsar.AtTuningMagBus = "นิตยสาร «สตูดิโอปรับแต่งออโตซาร์ - Bear Bus»",
 
 
 /************ Autotsar Tuning Atelier - Jaap Wrungel ************/
-    ItemName_Autotsar.AtTuningMagJeep = "Magazine «Autotsar Tuning Atelier - Jaap Wrungel»",
-    ItemName_Autotsar.ATAJeepBumper1Item = "Jaap Wrungel - Classic bumper",
-    ItemName_Autotsar.ATAJeepBumper2Item = "Jaap Wrungel - Winch bumper",
-    ItemName_Autotsar.ATAJeepBumper3Item = "Jaap Wrungel - Bullbar",
-    ItemName_Autotsar.ATAJeepSnorkelItem = "Jaap Wrungel - Schnorkel",
-    ItemName_Autotsar.ATAJeepRoofTentItem = "Jaap Wrungel - Roof Tent",
+    ItemName_Autotsar.AtTuningMagJeep = "นิตยสาร «สตูดิโอปรับแต่งออโตซาร์ - Jaap Wrungel»",
+    ItemName_Autotsar.ATAJeepBumper1Item = "Jaap Wrungel - กันชนคลาสสิค",
+    ItemName_Autotsar.ATAJeepBumper2Item = "Jaap Wrungel - กันชนติดกว้าน",
+    ItemName_Autotsar.ATAJeepBumper3Item = "Jaap Wrungel - บูลบาร์",
+    ItemName_Autotsar.ATAJeepSnorkelItem = "Jaap Wrungel - ชนอร์เคิล",
+    ItemName_Autotsar.ATAJeepRoofTentItem = "Jaap Wrungel - เต็นท์หลังคา",
 
 
 /************ Autotsar Tuning Atelier - Fjord Mustard ************/
 /************ Autotsar Tuning Atelier - Chevalier Samara ************/
-    ItemName_Autotsar.ATATuningFordMustang = "Magazine «Autotsar Tuning Atelier - Fjord Mustard»",
-    ItemName_Autotsar.ATATuningChevalierSamara  = "Magazine «Autotsar Tuning Atelier - Chevalier Samara»",
+    ItemName_Autotsar.ATATuningFordMustang = "นิตยสาร «สตูดิโอปรับแต่งออโตซาร์ - Fjord Mustard»",
+    ItemName_Autotsar.ATATuningChevalierSamara  = "นิตยสาร «สตูดิโอปรับแต่งออโตซาร์ - Chevalier Samara»",
 
-    ItemName_Autotsar.ATAMustangHood2Item3 = "Mustard - Cowl Hood",
-    ItemName_Autotsar.ATAMustangHood3Item3 = "Mustard - Ram Air Hood",
-    ItemName_Autotsar.ATAMustangHood4Item3 = "Mustard - Mongoose Hood",
-    ItemName_Autotsar.ATASamaraHood2Item3 = "Samara - Ram Air Hood",
-    ItemName_Autotsar.ATASamaraHood3Item3 = "Samara - Mongoose Hood",
+    ItemName_Autotsar.ATAMustangHood2Item3 = "Mustard - ฝากระโปรงหน้าคาวล์",
+    ItemName_Autotsar.ATAMustangHood3Item3 = "Mustard - ฝากระโปรงหน้าแรมแอร์",
+    ItemName_Autotsar.ATAMustangHood4Item3 = "Mustard - ฝากระโปรงหน้ามองกูส",
+    ItemName_Autotsar.ATASamaraHood2Item3 = "Samara - ฝากระโปรงหน้าแรมแอร์",
+    ItemName_Autotsar.ATASamaraHood3Item3 = "Samara - ฝากระโปรงหน้ามองกูส",
 
 
 /************ Autotsar Tuning Atelier - Dadge Steals RT ************/
-    ItemName_Autotsar.ATADodgeTuningMag = "Magazine «Autotsar Tuning Atelier - Dadge Steals RT»",
+    ItemName_Autotsar.ATADodgeTuningMag = "นิตยสาร «สตูดิโอปรับแต่งออโตซาร์ - Dadge Steals RT»",
 
 
 /************ Autotsar Tuning Atelier - Petyarbuilt 379 ************/
-    ItemName_Autotsar.ATAPetyarbuiltTuningMag = "Magazine «Autotsar Tuning Atelier - Petyarbuilt 379»",
+    ItemName_Autotsar.ATAPetyarbuiltTuningMag = "นิตยสาร «สตูดิโอปรับแต่งออโตซาร์ - Petyarbuilt 379»",
 
 
 /************ Autotsar Tuning Atelier - MolksAgen Luton Van ************/
-    ItemName_Autotsar.ATALutonTuningMag = "Magazine «Autotsar Tuning Atelier - MolksAgen Luton Van»",
+    ItemName_Autotsar.ATALutonTuningMag = "นิตยสาร «สตูดิโอปรับแต่งออโตซาร์ - รถตู้ MolksAgen Luton»",
 
 
 /************ Autotsar Tuning Atelier - DeRumba Van ************/
-    ItemName_Autotsar.ATAVanDeRumbaTuningMag = "Magazine «Autotsar Tuning Atelier - DeRumba Van»",
+    ItemName_Autotsar.ATAVanDeRumbaTuningMag = "นิตยสาร «สตูดิโอปรับแต่งออโตซาร์ - รถตู้ DeRumba»",
 
 
 /************ True Music ************/
-    ItemName_Tsarcraft.TCBoombox = "Boombox 'Kazakhstan-102-stereo'",
-    ItemName_Tsarcraft.TCVinylplayer = "Vinyl player 'Elektronika S1-01'",
-    ItemName_Tsarcraft.TCWalkman = "Portable player 'Sany Wutman'",
+    ItemName_Tsarcraft.TCBoombox = "บูมบอกซ์ 'คาซัคสถาน-102-สเตอริโอ'",
+    ItemName_Tsarcraft.TCVinylplayer = "เครื่องเล่นไวนิล 'อิเล็กทรอนิกา S1-01'",
+    ItemName_Tsarcraft.TCWalkman = "เครื่องเพลงเล่นพกพา 'ซานี่ วุตมาน'",
 
 
 /************ ZuperCart ************/
-    ItemName_TMC.TrolleyContainer = "Trolley",
-    ItemName_TMC.TrolleyContainer2 = "Trolley",
-    ItemName_TMC.CartContainer = "Supermarket cart",
-    ItemName_TMC.CartContainer2 = "Supermarket cart",
+    ItemName_TMC.TrolleyContainer = "รถเข็น",
+    ItemName_TMC.TrolleyContainer2 = "รถเข็น",
+    ItemName_TMC.CartContainer = "รถเข็นซุปเปอร์มาร์เก็ต",
+    ItemName_TMC.CartContainer2 = "รถเข็นซุปเปอร์มาร์เก็ต",
 
 
 /************ Autotsar Tuning Atelier - Bumer 36E ************/
-    ItemName_Autotsar.ATABMWe36TuningMag = "Magazine «Autotsar Tuning Atelier - Bumer 36E»",
-    ItemName_Autotsar.ATABMWe36SpoilerRear1Item = "Bumer 36E - low spoiler",
-    ItemName_Autotsar.ATABMWe36SpoilerRear2Item = "Bumer 36E - middle spoiler",
-    ItemName_Autotsar.ATABMWe36SpoilerRear3Item = "Bumer 36E - high spoiler",
+    ItemName_Autotsar.ATABMWe36TuningMag = "นิตยสาร «สตูดิโอปรับแต่งออโตซาร์ - Bumer 36E»",
+    ItemName_Autotsar.ATABMWe36SpoilerRear1Item = "Bumer 36E - สปอยเลอร์ต่ำ",
+    ItemName_Autotsar.ATABMWe36SpoilerRear2Item = "Bumer 36E - สปอยเลอร์กลาง",
+    ItemName_Autotsar.ATABMWe36SpoilerRear3Item = "Bumer 36E - สปอยเลอร์สูง",
     
 /************ Autotsar Tuning Atelier - Dadsun 240Z ************/
-    ItemName_Autotsar.ATATuningDatsun240z = "Magazine «Autotsar Tuning Atelier - Dadsun 240Z»",
-    ItemName_Autotsar.ATADatsun240zBumperItem = "Dadsun 240Z - Front Bumper",
-    ItemName_Autotsar.ATADatsun240zBumperRearItem = "Dadsun 240Z - Rear Bumper",
-    ItemName_Autotsar.ATADatsun240zHood2Item3 = "Dadsun 240Z - Ram Air Hood",
+    ItemName_Autotsar.ATATuningDatsun240z = "นิตยสาร «สตูดิโอปรับแต่งออโตซาร์ - Dadsun 240Z»",
+    ItemName_Autotsar.ATADatsun240zBumperItem = "Dadsun 240Z - กันชนหน้า",
+    ItemName_Autotsar.ATADatsun240zBumperRearItem = "Dadsun 240Z - กันชนท้าย",
+    ItemName_Autotsar.ATADatsun240zHood2Item3 = "Dadsun 240Z - ฝากระโปรงหน้าตกแต่งช่องลม",
     
 /************ Autotsar Tuning Atelier - Mustang 66 ************/
-    ItemName_Autotsar.ATAMustang66BumperItem = "Fjord Mustard '66 - Front Bumper",
-    ItemName_Autotsar.ATAMustang66BumperRearItem = "Fjord Mustard '66 - Rear Bumper",
-    ItemName_Autotsar.ATAMustang66Hood2Item3 = "Fjord Mustard '66 - Ram Air Hood",
-    ItemName_Autotsar.ATAMustang66Hood3Item3 = "Fjord Mustard '66 - Mongoose Hood",
-    ItemName_Autotsar.ATAMustang66TrunkDoor3 = "Fjord Mustard '66 - Trunk Door Mod.",
+    ItemName_Autotsar.ATAMustang66BumperItem = "Fjord Mustard '66 - กันชนหน้า",
+    ItemName_Autotsar.ATAMustang66BumperRearItem = "Fjord Mustard '66 - กันชนท้าย",
+    ItemName_Autotsar.ATAMustang66Hood2Item3 = "Fjord Mustard '66 - ฝากระโปรงหน้าตกแต่งช่องลม",
+    ItemName_Autotsar.ATAMustang66Hood3Item3 = "Fjord Mustard '66 - ฝากระโปรงหน้ามองกูส",
+    ItemName_Autotsar.ATAMustang66TrunkDoor3 = "Fjord Mustard '66 - มอดประตูท้าย",
 }
