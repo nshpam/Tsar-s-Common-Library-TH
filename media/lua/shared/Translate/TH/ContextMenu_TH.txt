@@ -1,6 +1,6 @@
 ContextMenu_TH = {
 /************ Tuning 2.0 ************/
-    ContextMenu_OpenTuningMenu = "การดัดแปลง",
+    ContextMenu_OpenTuningMenu = "การปรับแต่ง",
 
 
     ContextMenu_LaunchVehicle = "ถอดรถพ่วง",
